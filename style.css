@@ -1,0 +1,96 @@
+body{
+    margin: 0 20%;
+
+}
+.BarDiscount{
+    background-color: #1CD1B0;
+    height: 38px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin-bottom: 0;
+    
+}
+.BarDiscount>p{
+    padding: 10px 30px;
+}
+header{
+    top: 0;
+    background-color: #00669F;
+    height: 101px;
+    
+    border: solid 1px #00669F;
+    box-shadow: 0px 15px 10px -15px #111;
+}
+.her{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    vertical-align: middle;
+    padding-left: 30px;
+    
+}
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: white;
+    padding: 20px 30px;
+    
+    
+}
+footer{
+    background-color:  #00669F;
+    height: 51px;
+}
+
+.Cards{
+    
+    height: 530px;
+    margin: 100px 100px;
+    left: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Cards>div{
+    
+    margin-left: 20px;
+    width: 300px;
+    background-color: #f3f3f3;
+    box-shadow: 0px 15px 10px -15px #111;
+}
+.mark {
+    height:30%;
+    width:100%;
+}
+.batm{
+    border-radius: 80%;
+    margin-left: 30%;
+    margin-top: -6%;
+}
+
+.vect{
+    position: relative;
+    right: 200px;
+    bottom: 210px;
+}
+   
+h1{
+    text-align: center;
+    margin-top: -2%;
+}  
+.ver{
+    background-color: #00669F;
+    width: 128px;
+    height: 48px;
+    margin-left: 30%;
+}
+.mas{
+    text-align: center;
+    position: relative;
+    padding: 10%;
+    color: white;
+    
+}
+.texto {
+    padding: 5% 10%;
+    margin-top: -12%;
+}
